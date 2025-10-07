@@ -1,0 +1,14 @@
+name: crevasse-env
+channels:
+ - conda-forge
+dependencies:
+ - python
+ - rioxarray
+ - geopandas
+ - numpy
+ - matplotlib
+ - cmcrameri
+ - tqdm
+ - scipy
+ - numba
+ - matplotlib_scalebar
