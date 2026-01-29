@@ -4,7 +4,7 @@
 
 This repository is associated with the manuscript:
 
-> Chudley, T. R., Stokes, C. R., Lea, J. M., Winterbottom, T., Law, R., Clason, C. C., Wytiahlowsky, H. E., and Dechow, J. L. (_submitted_). Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier. [Preprint DOI: 10.31223/X5H45B](https://doi.org/10.31223/X5H45B)
+> Chudley, T. R., Stokes, C. R., Lea, J. M., Winterbottom, T., Law, R., Clason, C. C., Wytiahlowsky, H. E., and Dechow, J. L. (_in review_). Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier. [Preprint DOI: 10.31223/X5H45B](https://doi.org/10.31223/X5H45B)
 
 It contains open data associated with the paper, as well as Jupyter Notebooks necessary to replicate the figures within the paper. Running the Jupyter Notebooks requires the packages included within the `environment.yml` file, which can be installed using `conda` (e.g. `conda env create -f environment.yml`).
 
