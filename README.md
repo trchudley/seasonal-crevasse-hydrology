@@ -1,7 +1,7 @@
 # Data supporting "Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier"
 
-[![AGU Advances Paper - 10.1029/2025AV002150](https://img.shields.io/badge/EarthArXiv_Preprint-10.31223%2FX5H45B-2ea44f)](https://doi.org/10.1029/2025AV002150) 
-[![Zenodo Archive - 10.5281/zenodo.19496372](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.19496372-blue)](https://doi.org/10.5281/zenodo.19496372)
+[![AGU Advances Paper - 10.1029/2025AV002150](https://img.shields.io/badge/AGU_Advances_Paper-10.31223%2FX5H45B-2ea44f)](https://doi.org/10.1029/2025AV002150) 
+[![Zenodo Archive - 10.5281/zenodo.19496372](https://img.shields.io/badge/Zenodo_Archive-10.5281%2Fzenodo.19496372-blue)](https://doi.org/10.5281/zenodo.19496372)
 
 This repository is associated with the manuscript:
 
