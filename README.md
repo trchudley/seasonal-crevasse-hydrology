@@ -1,10 +1,11 @@
 # Data supporting "Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier"
 
-[![EarthArXiv Preprint - 10.31223/X5H45B](https://img.shields.io/badge/EarthArXiv_Preprint-10.31223%2FX5H45B-2ea44f)](https://doi.org/10.31223/X5H45B) [![Zenodo - 10.5281/zenodo.17287272](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.17287272-blue)](https://doi.org/10.5281/zenodo.17287272)
+[![AGU Advances Paper - 10.1029/2025AV002150](https://img.shields.io/badge/EarthArXiv_Preprint-10.31223%2FX5H45B-2ea44f)](https://doi.org/10.1029/2025AV002150) 
+[![Zenodo Archive - 10.5281/zenodo.19496372](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.19496372-blue)](https://doi.org/10.5281/zenodo.19496372)
 
 This repository is associated with the manuscript:
 
-> Chudley, T. R., Stokes, C. R., Lea, J. M., Winterbottom, T., Law, R., Clason, C. C., Wytiahlowsky, H. E., and Dechow, J. L. (_in review_). Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier. [Preprint DOI: 10.31223/X5H45B](https://doi.org/10.31223/X5H45B)
+> Chudley, T. R., Stokes, C. R., Lea, J. M., Winterbottom, T., Law, R., Clason, C. C., Wytiahlowsky, H. E., and Dechow, J. L. (2026). Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier. _AGU Advances_. _7_(3), e2025AV002150, [DOI: 10.1029/2025AV002150](https://doi.org/10.1029/2025AV002150)
 
 It contains open data associated with the paper, as well as Jupyter Notebooks necessary to replicate the figures within the paper. Running the Jupyter Notebooks requires the packages included within the `environment.yml` file, which can be installed using `conda` (e.g. `conda env create -f environment.yml`).
 
